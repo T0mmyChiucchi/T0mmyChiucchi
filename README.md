@@ -9,9 +9,9 @@
 <br clear="both">
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
@@ -51,7 +51,7 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:maurodesouza?theme=miku&padding=4&offset=2&scale=0.4&align=center&pixelated=0&darkmode=0"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:T0mmyChiucchi?theme=miku&padding=4&offset=2&scale=0.4&align=center&pixelated=0&darkmode=0"  />
 </div>
 
 ###
@@ -65,10 +65,11 @@
 <br clear="both">
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity&hide_border=true&bg_color=24292" height="300" alt="activity-graph graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/activity-graph-output/activity-graph.svg?radius=16&theme=tokyo-night&area=true&order=5&custom_title=Activity&hide_border=true&bg_color=24292" height="300" alt="activity-graph graph"  />
+  <br>
+  <img src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=T0mmyChiucchi&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="130" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Languages" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -84,7 +85,5 @@
 <br clear="both">
 
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%7D&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%7D&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
 </div>
-
-###
