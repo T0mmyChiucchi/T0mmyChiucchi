@@ -16,11 +16,11 @@
 
 ###
 
-<img data-importer="image" align="right" height="420" src="https://i.pinimg.com/originals/0c/78/d7/0c78d7fdd9e46a531fecf84f22f2dae5.gif"  />
+<img data-importer="image" align="right" height="430" src="https://github.com/user-attachments/assets/93a37082-fc8e-4064-82a5-02d0e868b111"  />
 
 ###
 
-<h3 data-importer="text" align="center"></h3>
+<br>
 
 ###
 
@@ -74,7 +74,7 @@
   <img src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Stats&v=1" height="190" alt="stats graph" /> 
   <img src="https://streak-stats.demolab.com?user=T0mmyChiucchi&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="190" alt="streak graph" /> 
   <br><br>
-  <img src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/languages-output/languages.svg?locale=en&hide_title=false&layout=default&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Languages&v=1" height="190" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/languages-output/languages.svg?locale=en&hide_title=false&layout=default&card_width=320&langs_count=5&theme=github_dark&hide_border=true&order=2&custom_title=Languages&v=1" height="300" alt="languages graph"  />
 </div>
 
 ###
