@@ -55,7 +55,7 @@
 ###
 
 <div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://count.getloli.com/@:T0mmyChiucchi?theme=miku&padding=4&offset=2&scale=0.4&align=center&pixelated=0&darkmode=0"  />
+  <img data-importer="profile-views" src="https://count.getloli.com/@:T0mmyChiucchi?theme=miku&padding=4&offset=2&scale=0.35&align=center&pixelated=0&darkmode=0"  />
 </div>
 
 ###
