@@ -7,6 +7,17 @@
   <code>namespace Profile {</code>
 </h4>
 
+<!-- ==================== PACMAN ARCADE CONTRIBUTION GRAPH ==================== -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman&v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/pacman-output/pacman-contribution-graph.svg?game=pacman&v=1">
+    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/pacman-output/pacman-contribution-graph.svg?game=pacman&v=1" width="100%" />
+  </picture>
+</div>
+
+<br>
+
 <!-- ==================== HERO / ABOUT ME SECTION ==================== -->
 <table border="0" width="100%">
   <tr>
@@ -41,13 +52,13 @@
   
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,python,kotlin,dart,blender&theme=tokyonight" height="52" alt="Primary Technologies" />
+      <img src="https://skillicons.dev/icons?i=cs,py,kotlin,dart,blender&theme=dark" height="52" alt="Primary Technologies" />
     </a>
   </p>
 
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,androidstudio&theme=tokyonight" height="42" alt="Tools & Environment" />
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,androidstudio&theme=dark" height="42" alt="Tools & Environment" />
     </a>
   </p>
 </div>
@@ -80,19 +91,6 @@
   <p>
     <img src="https://count.getloli.com/@:T0mmyChiucchi?theme=miku&padding=4&offset=2&scale=0.35&align=center&pixelated=0&darkmode=0" alt="Miku Profile Views" />
   </p>
-</div>
-
-<br>
-
-<!-- ==================== PACMAN ARCADE CONTRIBUTION GRAPH ==================== -->
-<div align="center">
-  <h3>/* 🎮 Pacman Contribution Quest */</h3>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/pacman-output/pacman-contribution-graph-dark.svg?game=pacman&v=1">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/pacman-output/pacman-contribution-graph.svg?game=pacman&v=1">
-    <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/pacman-output/pacman-contribution-graph.svg?game=pacman&v=1" width="100%" />
-  </picture>
 </div>
 
 <br>
