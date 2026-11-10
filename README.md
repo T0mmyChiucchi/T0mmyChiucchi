@@ -2,7 +2,7 @@
 
 ###
 
-<h1 data-importer="text" align="center">Hello World!! :P</h1>
+<h1 data-importer="text" align="center">Hello World!</h1>
 
 ###
 
