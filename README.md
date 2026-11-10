@@ -29,6 +29,13 @@
         </a>
       </p>
       <p>
+        <img src="https://img.shields.io/github/followers/T0mmyChiucchi?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Status-Building_%26_Learning-7dcfff?style=flat-square&labelColor=1a1b26" alt="Status" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/Focus-C%23_%E2%80%A2_Mobile_%E2%80%A2_3D-bb9af7?style=flat-square&labelColor=1a1b26" alt="Focus" />
+      </p>
+      <p>
         Welcome to my GitHub profile! I'm an Information Technology student with a passion for software engineering, mobile development, and 3D computer graphics. I love exploring new technologies and turning creative ideas into functional code.
       </p>
       <ul>
@@ -106,12 +113,17 @@
   
   <br>
 
-  <!-- Side-by-side Stats & Streak Cards -->
-  <p>
-    <img src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Stats&v=1" height="195" alt="GitHub Stats" />
-    &nbsp;&nbsp;
-    <img src="https://streak-stats.demolab.com?user=T0mmyChiucchi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="195" alt="GitHub Streak" />
-  </p>
+  <!-- Side-by-side Stats & Streak Cards in Symmetrical Table -->
+  <table align="center" border="0">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Stats&v=1" height="195" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=T0mmyChiucchi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="195" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
   <br>
 
@@ -119,6 +131,17 @@
   <p>
     <img src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2&custom_title=Languages&v=1" height="195" alt="Top Languages" />
   </p>
+</div>
+
+<br>
+
+<!-- ==================== GITHUB ACHIEVEMENTS & TROPHIES ==================== -->
+<div align="center">
+  <h3>/* 🏆 Achievements & Milestones */</h3>
+
+  <a href="https://github.com/T0mmyChiucchi/github-profile-trophy">
+    <img src="https://github-profile-trophy-m5yk.vercel.app/?username=T0mmyChiucchi&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=4" width="95%" alt="GitHub Trophies" />
+  </a>
 </div>
 
 <br>
