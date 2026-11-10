@@ -19,7 +19,11 @@
 <br>
 
 <!-- ==================== HERO / ABOUT ME SECTION ==================== -->
-<img align="right" src="https://github.com/user-attachments/assets/1d098e1f-4b51-4172-b518-8255586e8275" height="470" style="border-radius: 12px; max-width: 40%;" alt="Profile Character Art" />
+<table border="0" width="100%">
+<tr>
+<td width="58%" valign="top">
+
+<br>
 
 <h1><code>&gt;</code> Hello, World! <img src="assets/terminal-cursor.svg?v=2" height="25" align="absmiddle" alt="terminal cursor" /></h1>
 
@@ -58,7 +62,12 @@ public class Developer : Student
 
 </sub>
 
-<br clear="both">
+</td>
+<td width="42%" align="center" valign="middle">
+<img src="https://github.com/user-attachments/assets/1d098e1f-4b51-4172-b518-8255586e8275" height="480" style="border-radius: 12px; max-width: 100%;" alt="Profile Character Art" />
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -69,55 +78,53 @@ public class Developer : Student
   <sub><code>// Production stack, cross-platform mobile, cloud database & creative 3D suite</code></sub>
   <br><br>
 
-  <!-- Languages & Runtimes -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/01._LANGUAGES_&_RUNTIMES-7dcfff?style=flat-square&labelColor=16161e&color=1f2335&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzdkY2ZmZiI%2BPHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMS43NSA2aDEuNWwtLjUgMi41aDJsLjUtMi41aDEuNWwtLjUgMi41aDEuNXYxLjVoLTEuOGwtLjUgMi41aDEuNXYxLjVoLTEuOGwtLjUgMi41aC0xLjVsLjUtMi41aC0ybC0uNSAyLjVoLTEuNWwuNS0yLjVIMTJWMTJoMS44bC41LTIuNUgxMi41VjhoMS44bC41LTIuNXptMS4yIDRsLS41IDIuNWgybC41LTIuNWgtMnpNOS41IDhjMS4zODEgMCAyLjUgMS4xMTkgMi41IDIuNUgxMGMwLS41NTItLjQ0OC0xLTEtMXMtMSAuNDQ4LTEgMXYzYzAgLjU1Mi40NDggMSAxIDFzMS0uNDQ4IDEtMWgyYzAgMS4zODEtMS4xMTkgMi41LTIuNSAyLjVTNyAxNC44ODEgNyAxMy41di0zQzcgOS4xMTkgOC4xMTkgOCA5LjUgOHoiLz48L3N2Zz4%3D" alt="Languages & Runtimes" />
-    <br><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dart,kotlin,py,bash&theme=dark" height="48" alt="Languages & Runtimes" />
-    </a>
-    <br>
-    <sub><code>C# 12 • Dart • Kotlin • Python • Bash</code></sub>
-  </p>
-
+<table align="center" border="0" width="100%">
+<tr>
+<td width="48%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/LANGUAGES_&_RUNTIMES-7dcfff?style=flat-square&labelColor=16161e&color=1f2335&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzdkY2ZmZiI%2BPHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMS43NSA2aDEuNWwtLjUgMi41aDJsLjUtMi41aDEuNWwtLjUgMi41aDEuNXYxLjVoLTEuOGwtLjUgMi41aDEuNXYxLjVoLTEuOGwtLjUgMi41aC0xLjVsLjUtMi41aC0ybC0uNSAyLjVoLTEuNWwuNS0yLjVIMTJWMTJoMS44bC41LTIuNUgxMi41VjhoMS44bC41LTIuNXptMS4yIDRsLS41IDIuNWgybC41LTIuNWgtMnpNOS41IDhjMS4zODEgMCAyLjUgMS4xMTkgMi41IDIuNUgxMGMwLS41NTItLjQ0OC0xLTEtMXMtMSAuNDQ4LTEgMXYzYzAgLjU1Mi40NDggMSAxIDFzMS0uNDQ4IDEtMWgyYzAgMS4zODEtMS4xMTkgMi41LTIuNSAyLjVTNyAxNC44ODEgNyAxMy41di0zQzcgOS4xMTkgOC4xMTkgOCA5LjUgOHoiLz48L3N2Zz4%3D" alt="Languages & Runtimes" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dart,kotlin,py,bash&theme=dark" height="48" alt="Languages & Runtimes" />
+  </a>
   <br>
-
-  <!-- Frameworks & Mobile -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/02._FRAMEWORKS_&_MOBILE-bb9af7?style=flat-square&labelColor=16161e&color=1f2335&logo=flutter&logoColor=bb9af7" alt="Frameworks & Mobile" />
-    <br><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=dotnet,flutter,androidstudio&theme=dark" height="48" alt="Frameworks & Mobile" />
-    </a>
-    <br>
-    <sub><code>.NET 8 • .NET MAUI • Flutter • Android Native</code></sub>
-  </p>
-
+  <sub><code>C# 12 • Dart • Kotlin • Python • Bash</code></sub>
+</td>
+<td width="4%">&nbsp;</td>
+<td width="48%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/FRAMEWORKS_&_MOBILE-bb9af7?style=flat-square&labelColor=16161e&color=1f2335&logo=flutter&logoColor=bb9af7" alt="Frameworks & Mobile" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,flutter,androidstudio&theme=dark" height="48" alt="Frameworks & Mobile" />
+  </a>
   <br>
+  <sub><code>.NET 8 • .NET MAUI • Flutter • Android Native</code></sub>
+</td>
+</tr>
 
-  <!-- Cloud, Data & DevOps -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/03._CLOUD,_DATA_&_DEVOPS-73daca?style=flat-square&labelColor=16161e&color=1f2335&logo=supabase&logoColor=73daca" alt="Cloud, Data & DevOps" />
-    <br><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github&theme=dark" height="48" alt="Cloud & DevOps" />
-    </a>
-    <br>
-    <sub><code>Supabase BaaS • PostgreSQL • Git • GitHub Actions</code></sub>
-  </p>
+<tr><td colspan="3" height="15"></td></tr>
 
+<tr>
+<td width="48%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/CLOUD,_DATA_&_DEVOPS-73daca?style=flat-square&labelColor=16161e&color=1f2335&logo=supabase&logoColor=73daca" alt="Cloud, Data & DevOps" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github&theme=dark" height="48" alt="Cloud & DevOps" />
+  </a>
   <br>
-
-  <!-- 3D Design & Environment -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/04._3D_DESIGN_&_ENVIRONMENT-ff9e64?style=flat-square&labelColor=16161e&color=1f2335&logo=blender&logoColor=ff9e64" alt="3D Design & Environment" />
-    <br><br>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=blender,unity,visualstudio,vscode,linux&theme=dark" height="48" alt="3D Design & Environment" />
-    </a>
-    <br>
-    <sub><code>Blender 3D • Unity Engine • Visual Studio • Linux</code></sub>
-  </p>
+  <sub><code>Supabase BaaS • PostgreSQL • Git • GitHub Actions</code></sub>
+</td>
+<td width="4%">&nbsp;</td>
+<td width="48%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/3D_DESIGN_&_ENVIRONMENT-ff9e64?style=flat-square&labelColor=16161e&color=1f2335&logo=blender&logoColor=ff9e64" alt="3D Design & Environment" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,unity,visualstudio,vscode,linux&theme=dark" height="48" alt="3D Design & Environment" />
+  </a>
+  <br>
+  <sub><code>Blender 3D • Unity Engine • Visual Studio • Linux</code></sub>
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -139,21 +146,21 @@ public class Developer : Student
   <img src="https://img.shields.io/badge/02_%2F%2F-FEATURED_PROJECTS-bb9af7?style=for-the-badge&logo=git&logoColor=bb9af7&labelColor=16161e" height="42" alt="Featured Projects" />
   <br><br>
   
-  <!-- Project 1: TravelBookManager -->
-  <p align="center">
-    <a href="https://github.com/T0mmyChiucchi/TravelBookManager" target="_blank">
-      <img src="https://img.shields.io/badge/TravelBookManager-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="TravelBookManager" />
-    </a>
-    <br><br>
-    <img src="https://img.shields.io/github/stars/T0mmyChiucchi/TravelBookManager?style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Stars" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/Clean_Architecture-7dcfff?style=flat-square&labelColor=1a1b26&color=1f2335" alt="Clean Architecture" />
-  </p>
-
+<table align="center" border="0" width="100%">
+<tr>
+<td width="48%" align="center" valign="top">
+  <a href="https://github.com/T0mmyChiucchi/TravelBookManager" target="_blank">
+    <img src="https://img.shields.io/badge/TravelBookManager-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="TravelBookManager" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/github/stars/T0mmyChiucchi/TravelBookManager?style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Clean_Architecture-7dcfff?style=flat-square&labelColor=1a1b26&color=1f2335" alt="Clean Architecture" />
+  <br><br>
   <p align="left">
     <sub>
       ✦ <b>Smart Travel Companion:</b> Cross-platform mobile trip & itinerary planner.<br>
@@ -173,29 +180,27 @@ public class Developer : Student
       </sub>
     </p>
   </details>
+  <br>
   <p align="center">
     <a href="https://github.com/T0mmyChiucchi/TravelBookManager" target="_blank">
       <img src="https://img.shields.io/badge/Explore_Repository-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Explore TravelBookManager" />
     </a>
   </p>
-
+</td>
+<td width="4%">&nbsp;</td>
+<td width="48%" align="center" valign="top">
+  <a href="https://github.com/T0mmyChiucchi/MySmartHouseDDD" target="_blank">
+    <img src="https://img.shields.io/badge/MySmartHouseDDD-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="MySmartHouseDDD" />
+  </a>
   <br><br>
-
-  <!-- Project 2: MySmartHouseDDD -->
-  <p align="center">
-    <a href="https://github.com/T0mmyChiucchi/MySmartHouseDDD" target="_blank">
-      <img src="https://img.shields.io/badge/MySmartHouseDDD-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="MySmartHouseDDD" />
-    </a>
-    <br><br>
-    <img src="https://img.shields.io/github/stars/T0mmyChiucchi/MySmartHouseDDD?style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Stars" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMS43NSA2aDEuNWwtLjUgMi41aDJsLjUtMi41aDEuNWwtLjUgMi41aDEuNXYxLjVoLTEuOGwtLjUgMi41aDEuNXYxLjVoLTEuOGwtLjUgMi41aC0xLjVsLjUtMi41aC0ybC0uNSAyLjVoLTEuNWwuNS0yLjVIMTJWMTJoMS44bC41LTIuNUgxMi41VjhoMS44bC41LTIuNXptMS4yIDRsLS41IDIuNWgybC41LTIuNWgtMnpNOS41IDhjMS4zODEgMCAyLjUgMS4xMTkgMi41IDIuNUgxMGMwLS41NTItLjQ0OC0xLTEtMXMtMSAuNDQ4LTEgMXYzYzAgLjU1Mi40NDggMSAxIDFzMS0uNDQ4IDEtMWgyYzAgMS4zODEtMS4xMTkgMi41LTIuNSAyLjVTNyAxNC44ODEgNyAxMy41di0zQzcgOS4xMTkgOC4xMTkgOCA5LjUgOHoiLz48L3N2Zz4%3D&logoColor=white" alt="C#" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/DDD_Pattern-bb9af7?style=flat-square&labelColor=1a1b26&color=1f2335" alt="DDD" />
-    &nbsp;
-    <img src="https://img.shields.io/badge/IoT_Domain-ff9e64?style=flat-square&labelColor=1a1b26&color=1f2335" alt="IoT" />
-  </p>
-
+  <img src="https://img.shields.io/github/stars/T0mmyChiucchi/MySmartHouseDDD?style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DDD_Pattern-bb9af7?style=flat-square&labelColor=1a1b26&color=1f2335" alt="DDD" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/IoT_Domain-ff9e64?style=flat-square&labelColor=1a1b26&color=1f2335" alt="IoT" />
+  <br><br>
   <p align="left">
     <sub>
       ✦ <b>Smart Home Ecosystem:</b> Domain-centric modeling for connected home automation.<br>
@@ -215,11 +220,15 @@ public class Developer : Student
       </sub>
     </p>
   </details>
+  <br>
   <p align="center">
     <a href="https://github.com/T0mmyChiucchi/MySmartHouseDDD" target="_blank">
       <img src="https://img.shields.io/badge/Explore_Repository-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Explore MySmartHouseDDD" />
     </a>
   </p>
+</td>
+</tr>
+</table>
 </div>
 
 <br>
@@ -292,12 +301,17 @@ public class Developer : Student
   
   <br>
 
-  <!-- Side-by-side Stats & Streak Cards -->
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Stats&v=1" height="195" alt="GitHub Stats" />
-    &nbsp;&nbsp;
-    <img src="https://streak-stats.demolab.com?user=T0mmyChiucchi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="195" alt="GitHub Streak" />
-  </p>
+  <!-- Side-by-side Stats & Streak Cards in Symmetrical Table -->
+  <table align="center" border="0">
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/T0mmyChiucchi/T0mmyChiucchi/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1&custom_title=Stats&v=1" height="195" alt="GitHub Stats" />
+      </td>
+      <td align="center">
+        <img src="https://streak-stats.demolab.com?user=T0mmyChiucchi&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="195" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 
   <br>
 
