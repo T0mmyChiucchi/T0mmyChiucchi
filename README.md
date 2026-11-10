@@ -20,35 +20,51 @@
 
 <!-- ==================== HERO / ABOUT ME SECTION ==================== -->
 <table border="0" width="100%">
-  <tr>
-    <td width="62%" valign="top">
-      <h1>Hello World! 👋</h1>
-      <p>
-        <a href="https://github.com/T0mmyChiucchi">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=1000&color=7AA2F7&center=false&vCenter=true&width=460&lines=CS+Student+%40+IS+Pascal+Comandini;C%23+%E2%80%A2+Dart+%E2%80%A2+Kotlin+%E2%80%A2+Python;Game+Development+%26+3D+Art+in+Blender;Crafting+interactive+%26+clean+code!" alt="Typing SVG" />
-        </a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/github/followers/T0mmyChiucchi?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Status-Building_%26_Learning-7dcfff?style=flat-square&labelColor=1a1b26" alt="Status" />
-        &nbsp;
-        <img src="https://img.shields.io/badge/Focus-C%23_%E2%80%A2_Mobile_%E2%80%A2_3D-bb9af7?style=flat-square&labelColor=1a1b26" alt="Focus" />
-      </p>
-      <p>
-        Welcome to my GitHub profile! I'm an Information Technology student with a passion for software engineering, mobile development, and 3D computer graphics. I love exploring new technologies and turning creative ideas into functional code.
-      </p>
-      <ul>
-        <li>🎓 <b>Education:</b> Computer Science & IT @ <i>IS Pascal Comandini</i></li>
-        <li>💻 <b>Core Interests:</b> Software Architecture, Mobile Apps, Game Mechanics</li>
-        <li>🎨 <b>Creative Hobby:</b> 3D Modeling & Rendering with <b>Blender</b></li>
-        <li>🌱 <b>Currently Exploring:</b> Modern cross-platform apps & performance tuning</li>
-      </ul>
-    </td>
-    <td width="38%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/1d098e1f-4b51-4172-b518-8255586e8275" height="340" style="border-radius: 12px; max-width: 100%;" alt="Profile Character Art" />
-    </td>
-  </tr>
+<tr>
+<td width="58%" valign="top">
+
+<br>
+
+<h1>Hello World! 👋</h1>
+
+<p>
+  <a href="https://github.com/T0mmyChiucchi">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=7AA2F7&center=false&vCenter=true&width=430&lines=CS+Student+%40+IS+Pascal+Comandini;C%23+%E2%80%A2+Dart+%E2%80%A2+Kotlin+%E2%80%A2+Python;Game+Development+%26+3D+Art+in+Blender;Crafting+interactive+%26+clean+code!" alt="Typing SVG" />
+  </a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/github/followers/T0mmyChiucchi?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Building_%26_Learning-7dcfff?style=flat-square&labelColor=1a1b26" alt="Status" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Focus-C%23_%E2%80%A2_Mobile_%E2%80%A2_3D-bb9af7?style=flat-square&labelColor=1a1b26" alt="Focus" />
+</p>
+
+<p>
+  Welcome to my GitHub profile! I'm an IT student passionate about software engineering, mobile development, and 3D computer graphics.
+</p>
+
+<sub>
+
+```csharp
+public class Developer : Student 
+{
+    public string Name     => "Tommaso Chiucchi";
+    public string Location => "Cesena, Italy 🇮🇹";
+    public string School   => "IS Pascal Comandini 🏫";
+    public string[] Stack  => ["C#", "Dart", "Kotlin", "Python"];
+    public string Creative => "Game Dev & 3D Art in Blender 🎨";
+}
+```
+
+</sub>
+
+</td>
+<td width="42%" align="center" valign="middle">
+<img src="https://github.com/user-attachments/assets/1d098e1f-4b51-4172-b518-8255586e8275" height="450" style="border-radius: 12px; max-width: 100%;" alt="Profile Character Art" />
+</td>
+</tr>
 </table>
 
 <br>
