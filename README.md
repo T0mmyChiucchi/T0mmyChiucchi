@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,18&height=180&section=header&text=Tommaso%20Chiucchi&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=CS%20Student%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%203D%20Enthusiast&descSize=18&descAlignY=62&theme=tokyonight" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,40:1f2335,75:2e3c64,100:7aa2f7&height=210&section=header&text=Tommaso%20Chiucchi&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=CS%20Student%20%E2%80%A2%20Software%20Developer%20%E2%80%A2%203D%20Enthusiast&descSize=20&descColor=7dcfff&descAlignY=60&animation=twinkling" width="100%" alt="Header Banner" />
 </div>
 
 <h4 align="left">
@@ -25,7 +25,7 @@
 
 <br>
 
-<h1>Hello World! 👋</h1>
+<h1><code>&gt;</code> Hello, World! <img src="assets/terminal-cursor.svg?v=2" height="25" align="absmiddle" alt="terminal cursor" /></h1>
 
 <p>
   <a href="https://github.com/T0mmyChiucchi">
@@ -34,16 +34,18 @@
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/followers/T0mmyChiucchi?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/T0mmyChiucchi?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b26&logo=github&logoColor=white" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Status-Building_%26_Learning-7dcfff?style=flat-square&labelColor=1a1b26" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Building_%26_Learning-7dcfff?style=flat-square&labelColor=1a1b26&logo=gnubash&logoColor=7dcfff" alt="Status" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-C%23_%E2%80%A2_Mobile_%E2%80%A2_3D-bb9af7?style=flat-square&labelColor=1a1b26" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-C%23_%E2%80%A2_Mobile_%E2%80%A2_3D-bb9af7?style=flat-square&labelColor=1a1b26&logo=dotnet&logoColor=bb9af7" alt="Focus" />
 </p>
 
 <p>
   Welcome to my GitHub profile! I'm an IT student passionate about software engineering, mobile development, and 3D computer graphics.
 </p>
+
+<sub><code>// Solution: Profile / Developer.cs &nbsp; [C# 12 • .NET 8]</code></sub>
 
 <sub>
 
@@ -51,10 +53,10 @@
 public class Developer : Student 
 {
     public string Name     => "Tommaso Chiucchi";
-    public string Location => "Cesena, Italy 🇮🇹";
-    public string School   => "IS Pascal Comandini 🏫";
+    public string Location => "Cesena, Italy";
+    public string School   => "IS Pascal Comandini";
     public string[] Stack  => ["C#", "Dart", "Kotlin", "Python"];
-    public string Creative => "Game Dev & 3D Art in Blender 🎨";
+    public string Creative => "Game Dev & 3D Art in Blender";
 }
 ```
 
@@ -62,7 +64,7 @@ public class Developer : Student
 
 </td>
 <td width="42%" align="center" valign="middle">
-<img src="https://github.com/user-attachments/assets/1d098e1f-4b51-4172-b518-8255586e8275" height="450" style="border-radius: 12px; max-width: 100%;" alt="Profile Character Art" />
+<img src="https://github.com/user-attachments/assets/1d098e1f-4b51-4172-b518-8255586e8275" height="480" style="border-radius: 12px; max-width: 100%;" alt="Profile Character Art" />
 </td>
 </tr>
 </table>
@@ -71,47 +73,203 @@ public class Developer : Student
 
 <!-- ==================== TECH STACK ==================== -->
 <div align="center">
-  <h3>/* 🛠️ Tech Arsenal & Tools */</h3>
-  
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,py,kotlin,dart,blender&theme=dark" height="52" alt="Primary Technologies" />
-    </a>
-  </p>
+  <img src="https://img.shields.io/badge/01_%2F%2F-TECH_ARSENAL_%26_TOOLS-7dcfff?style=for-the-badge&logo=gnubash&logoColor=7dcfff&labelColor=16161e" height="42" alt="Tech Arsenal & Tools" />
+  <br>
+  <sub><code>// Production stack, cross-platform mobile, cloud database & creative 3D suite</code></sub>
+  <br><br>
 
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,linux,androidstudio&theme=dark" height="42" alt="Tools & Environment" />
+<table align="center" border="0" width="100%">
+<tr>
+<td width="48%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/LANGUAGES_&_RUNTIMES-7dcfff?style=flat-square&labelColor=16161e&color=1f2335&logo=data%3Aimage/svg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzdkY2ZmZiI%2BPHBhdGggZD0iTTEyIDBDNS4zNzMgMCAwIDUuMzczIDAgMTJzNS4zNzMgMTIgMTIgMTIgMTItNS4zNzMgMTItMTJTMTguNjI3IDAgMTIgMHptMS43NSA2aDEuNWwtLjUgMi41aDJsLjUtMi41aDEuNWwtLjUgMi41aDEuNXYxLjVoLTEuOGwtLjUgMi41aDEuNXYxLjVoLTEuOGwtLjUgMi41aC0xLjVsLjUtMi41aC0ybC0uNSAyLjVoLTEuNWwuNS0yLjVIMTJWMTJoMS44bC41LTIuNUgxMi41VjhoMS44bC41LTIuNXptMS4yIDRsLS41IDIuNWgybC41LTIuNWgtMnpNOS41IDhjMS4zODEgMCAyLjUgMS4xMTkgMi41IDIuNUgxMGMwLS41NTItLjQ0OC0xLTEtMXMtMSAuNDQ4LTEgMXYzYzAgLjU1Mi40NDggMSAxIDFzMS0uNDQ4IDEtMWgyYzAgMS4zODEtMS4xMTkgMi41LTIuNSAyLjVTNyAxNC44ODEgNyAxMy41di0zQzcgOS4xMTkgOC4xMTkgOCA5LjUgOHoiLz48L3N2Zz4%3D" alt="Languages & Runtimes" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dart,kotlin,py,bash&theme=dark" height="48" alt="Languages & Runtimes" />
+  </a>
+  <br>
+  <sub><code>C# 12 • Dart • Kotlin • Python • Bash</code></sub>
+</td>
+<td width="4%">&nbsp;</td>
+<td width="48%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/FRAMEWORKS_&_MOBILE-bb9af7?style=flat-square&labelColor=16161e&color=1f2335&logo=flutter&logoColor=bb9af7" alt="Frameworks & Mobile" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dotnet,flutter,androidstudio&theme=dark" height="48" alt="Frameworks & Mobile" />
+  </a>
+  <br>
+  <sub><code>.NET 8 • .NET MAUI • Flutter • Android Native</code></sub>
+</td>
+</tr>
+
+<tr><td colspan="3" height="15"></td></tr>
+
+<tr>
+<td width="48%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/CLOUD,_DATA_&_DEVOPS-73daca?style=flat-square&labelColor=16161e&color=1f2335&logo=supabase&logoColor=73daca" alt="Cloud, Data & DevOps" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github&theme=dark" height="48" alt="Cloud & DevOps" />
+  </a>
+  <br>
+  <sub><code>Supabase BaaS • PostgreSQL • Git • GitHub Actions</code></sub>
+</td>
+<td width="4%">&nbsp;</td>
+<td width="48%" align="center" valign="top">
+  <img src="https://img.shields.io/badge/3D_DESIGN_&_ENVIRONMENT-ff9e64?style=flat-square&labelColor=16161e&color=1f2335&logo=blender&logoColor=ff9e64" alt="3D Design & Environment" />
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,unity,visualstudio,vscode,linux&theme=dark" height="48" alt="3D Design & Environment" />
+  </a>
+  <br>
+  <sub><code>Blender 3D • Unity Engine • Visual Studio • Linux</code></sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Architecture-Clean_Architecture-7dcfff?style=flat-square&labelColor=1a1b26&color=1f2335" alt="Clean Architecture" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Design_Pattern-Domain_Driven_Design-bb9af7?style=flat-square&labelColor=1a1b26&color=1f2335" alt="DDD" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Mobile_Pattern-MVVM-7aa2f7?style=flat-square&labelColor=1a1b26&color=1f2335" alt="MVVM" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Creative-3D_PBR_Modeling-e0af68?style=flat-square&labelColor=1a1b26&color=1f2335" alt="3D PBR Modeling" />
+</p>
+</div>
+
+<br>
+
+<!-- ==================== FEATURED PROJECTS ==================== -->
+<div align="center">
+  <img src="https://img.shields.io/badge/02_%2F%2F-FEATURED_PROJECTS-bb9af7?style=for-the-badge&logo=git&logoColor=bb9af7&labelColor=16161e" height="42" alt="Featured Projects" />
+  <br><br>
+  
+<table align="center" border="0" width="100%">
+<tr>
+<td width="48%" align="center" valign="top">
+  <a href="https://github.com/T0mmyChiucchi/TravelBookManager" target="_blank">
+    <img src="https://img.shields.io/badge/TravelBookManager-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="TravelBookManager" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/github/stars/T0mmyChiucchi/TravelBookManager?style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET MAUI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Clean_Architecture-7dcfff?style=flat-square&labelColor=1a1b26&color=1f2335" alt="Clean Architecture" />
+  <br><br>
+  <p align="left">
+    <sub>
+      ✦ <b>Smart Travel Companion:</b> Cross-platform mobile trip & itinerary planner.<br>
+      ✦ <b>Route Optimization:</b> Solves the <b>Traveling Salesperson Problem (TSP)</b> for optimal routes.<br>
+      ✦ <b>Cloud & Auth:</b> Real-time synchronization & PostgreSQL powered by <b>Supabase</b>.<br>
+      ✦ <b>Enterprise Design:</b> Strict Clean Architecture & Domain-Driven Design (DDD).
+    </sub>
+  </p>
+  <details>
+    <summary><b>Technical Deep Dive</b></summary>
+    <p align="left">
+      <sub>
+        • <b>Framework:</b> .NET MAUI with MVVM pattern & data-binding<br>
+        • <b>Core Logic:</b> Heuristic graph solver for multi-stop route sequencing<br>
+        • <b>Backend:</b> Supabase BaaS (PostgreSQL, Auth, Realtime DB)<br>
+        • <b>Layers:</b> Clean separation of Domain, Application, and Infrastructure
+      </sub>
+    </p>
+  </details>
+  <br>
+  <p align="center">
+    <a href="https://github.com/T0mmyChiucchi/TravelBookManager" target="_blank">
+      <img src="https://img.shields.io/badge/Explore_Repository-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Explore TravelBookManager" />
     </a>
   </p>
+</td>
+<td width="4%">&nbsp;</td>
+<td width="48%" align="center" valign="top">
+  <a href="https://github.com/T0mmyChiucchi/MySmartHouseDDD" target="_blank">
+    <img src="https://img.shields.io/badge/MySmartHouseDDD-7aa2f7?style=for-the-badge&logo=github&logoColor=white" alt="MySmartHouseDDD" />
+  </a>
+  <br><br>
+  <img src="https://img.shields.io/github/stars/T0mmyChiucchi/MySmartHouseDDD?style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/DDD_Pattern-bb9af7?style=flat-square&labelColor=1a1b26&color=1f2335" alt="DDD" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/IoT_Domain-ff9e64?style=flat-square&labelColor=1a1b26&color=1f2335" alt="IoT" />
+  <br><br>
+  <p align="left">
+    <sub>
+      ✦ <b>Smart Home Ecosystem:</b> Domain-centric modeling for connected home automation.<br>
+      ✦ <b>DDD Building Blocks:</b> Pure <b>Aggregate Roots</b>, <b>Entities</b>, and immutable <b>Value Objects</b>.<br>
+      ✦ <b>Invariant Protection:</b> 100% domain logic encapsulation with zero business leakage.<br>
+      ✦ <b>Clean Code:</b> Pure C# domain model designed for testability, scalability & purity.
+    </sub>
+  </p>
+  <details>
+    <summary><b>Technical Deep Dive</b></summary>
+    <p align="left">
+      <sub>
+        • <b>Aggregate Roots:</b> House, Room, and Smart Device aggregates<br>
+        • <b>Value Objects:</b> Immutable state tracking (Coordinates, Status, Telemetry)<br>
+        • <b>Domain Logic:</b> Encapsulated business rules, state transitions & triggers<br>
+        • <b>Decoupled:</b> Pure C# domain model independent of UI or persistence
+      </sub>
+    </p>
+  </details>
+  <br>
+  <p align="center">
+    <a href="https://github.com/T0mmyChiucchi/MySmartHouseDDD" target="_blank">
+      <img src="https://img.shields.io/badge/Explore_Repository-7aa2f7?style=flat-square&logo=github&logoColor=white" alt="Explore MySmartHouseDDD" />
+    </a>
+  </p>
+</td>
+</tr>
+</table>
 </div>
 
 <br>
 
 <!-- ==================== SOCIALS & CONNECT ==================== -->
 <div align="center">
-  <h3>/* 🌐 Connect With Me */</h3>
+  <img src="https://img.shields.io/badge/03_%2F%2F-CONNECT_WITH_ME-7aa2f7?style=for-the-badge&logo=gmail&logoColor=7aa2f7&labelColor=16161e" height="42" alt="Connect With Me" />
+  <br>
+  <sub><code>// Open for collaborations, software engineering discussions & creative 3D projects</code></sub>
+  <br><br>
   
-  <p>
+  <!-- Direct Contact Channels -->
+  <p align="center">
     <a href="mailto:tommaso.chiucchi.stud@ispascalcomandini.it" target="_blank">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+      <img src="https://img.shields.io/badge/Gmail-tommaso.chiucchi-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=16161e" height="26" alt="Gmail" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://instagram.com/tommy_chiucchi" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+      <img src="https://img.shields.io/badge/Instagram-@tommy__chiucchi-E4405F?style=flat-square&logo=instagram&logoColor=white&labelColor=16161e" height="26" alt="Instagram" />
     </a>
-    &nbsp;
+    &nbsp;&nbsp;
     <a href="https://github.com/T0mmyChiucchi" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
-    </a>
-    &nbsp;
-    <a href="https://visualstudio.microsoft.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Badge" />
+      <img src="https://img.shields.io/badge/GitHub-@T0mmyChiucchi-7aa2f7?style=flat-square&logo=github&logoColor=white&labelColor=16161e" height="26" alt="GitHub" />
     </a>
   </p>
 
-  <!-- Visitor Counter -->
-  <p>
+  <!-- Collaboration & Availability Status -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Status-Open_for_Projects_%26_Collabs-73daca?style=flat-square&labelColor=1a1b26&color=1f2335&logo=statuspal&logoColor=73daca" alt="Status" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Location-Cesena,_Italy-7dcfff?style=flat-square&labelColor=1a1b26&color=1f2335&logo=googlemaps&logoColor=7dcfff" alt="Location" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Timezone-UTC+1_(CET)-bb9af7?style=flat-square&labelColor=1a1b26&color=1f2335&logo=clockify&logoColor=bb9af7" alt="Timezone" />
+  </p>
+
+  <br>
+
+  <!-- Visitor Telemetry -->
+  <p align="center">
+    <sub><code>// Profile Traffic Telemetry</code></sub>
+    <br>
     <img src="https://count.getloli.com/@:T0mmyChiucchi?theme=miku&padding=4&offset=2&scale=0.35&align=center&pixelated=0&darkmode=0" alt="Miku Profile Views" />
   </p>
 </div>
@@ -120,7 +278,21 @@ public class Developer : Student
 
 <!-- ==================== GITHUB ANALYTICS & STATS ==================== -->
 <div align="center">
-  <h3>/* 📊 Analytics & Activity Dashboard */</h3>
+  <img src="https://img.shields.io/badge/04_%2F%2F-ANALYTICS_%26_ACTIVITY-ff9e64?style=for-the-badge&logo=grafana&logoColor=ff9e64&labelColor=16161e" height="42" alt="Analytics & Activity Dashboard" />
+  <br>
+  <sub><code>// Continuous metrics, commit velocity & code distribution telemetry</code></sub>
+  <br><br>
+
+  <!-- Telemetry Pipeline Status -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Pipeline-Automated_Workflows-7dcfff?style=flat-square&labelColor=1a1b26&color=1f2335&logo=githubactions&logoColor=7dcfff" alt="Workflows" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Telemetry-Tokyo_Night_Graded-ff9e64?style=flat-square&labelColor=1a1b26&color=1f2335&logo=grafana&logoColor=ff9e64" alt="Grafana" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Sync-Daily_Cron_Cycle-73daca?style=flat-square&labelColor=1a1b26&color=1f2335&logo=clockify&logoColor=73daca" alt="Cron" />
+  </p>
+
+  <br>
 
   <!-- Panoramic Activity Graph -->
   <p>
@@ -153,7 +325,23 @@ public class Developer : Student
 
 <!-- ==================== GITHUB ACHIEVEMENTS & TROPHIES ==================== -->
 <div align="center">
-  <h3>/* 🏆 Achievements & Milestones */</h3>
+  <img src="https://img.shields.io/badge/05_%2F%2F-ACHIEVEMENTS_%26_MILESTONES-e0af68?style=for-the-badge&logo=github&logoColor=e0af68&labelColor=16161e" height="42" alt="Achievements & Milestones" />
+  <br>
+  <sub><code>// Verified repository milestones, self-hosted cloud trophies & engineering highlights</code></sub>
+  <br><br>
+
+  <!-- Milestone Highlights -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Academic-Computer_Science_%26_IT-7dcfff?style=flat-square&labelColor=1a1b26&color=1f2335&logo=academia&logoColor=7dcfff" alt="Education" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Architecture-Clean_Architecture_%26_DDD-bb9af7?style=flat-square&labelColor=1a1b26&color=1f2335&logo=dotnet&logoColor=bb9af7" alt="Architecture" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Cloud-Self--Hosted_Vercel_Engine-e0af68?style=flat-square&labelColor=1a1b26&color=1f2335&logo=vercel&logoColor=e0af68" alt="Vercel Cloud" />
+    &nbsp;
+    <img src="https://img.shields.io/badge/Creative-3D_Art_%26_Game_Assets-ff9e64?style=flat-square&labelColor=1a1b26&color=1f2335&logo=blender&logoColor=ff9e64" alt="Blender 3D" />
+  </p>
+
+  <br>
 
   <a href="https://github.com/T0mmyChiucchi/github-profile-trophy">
     <img src="https://github-profile-trophy-m5yk.vercel.app/?username=T0mmyChiucchi&theme=tokyonight&no-frame=true&no-bg=true&row=1&margin-w=4" width="95%" alt="GitHub Trophies" />
@@ -173,5 +361,5 @@ public class Developer : Student
 
 <!-- ==================== WAVING FOOTER CLOSING NAMESPACE ==================== -->
 <div>
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&text=%7D&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" width="100%" alt="Footer Banner" />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,25:2e3c64,60:1f2335,100:1a1b26&height=100&section=footer&text=%7D&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=50&animation=twinkling" width="100%" alt="Footer Banner" />
 </div>
